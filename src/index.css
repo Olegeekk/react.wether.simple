@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+li a {
+    color: #fff;
+    background-color: #337ab7;
+    border-color: #2e6da4;
+        padding: 10px 16px;
+    font-size: 18px;
+    line-height: 1.3333333;
+    border-radius: 6px;
+    margin: 10 auto 111px;
+    display: inline-table;
+	width: 100%;
+	
+}
